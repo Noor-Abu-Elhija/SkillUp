@@ -18,7 +18,7 @@
 Skills play a crucial role in enhancing LinkedIn profiles, making them more visible to recruiters on the leading job-seeking platform. By adding personalized skills and aligning them with market demands, job seekers can significantly improve their chances of securing opportunities. This project aims to analyze users' experience and qualifications, suggest personalized skills for LinkedIn profiles, and recommend relevant courses that help bridge skill gaps and meet industry demands.
 
 The repository contains two main components:
-1. **A Python script for scraping skills from Glassdoor.**
+1. **A Python script for scraping jobs from Glassdoor.**
 2. **A Jupyter Notebook that processes and analyzes the scraped data.**
 
 ## Features
