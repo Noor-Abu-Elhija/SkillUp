@@ -1,46 +1,39 @@
-# SkillUp
-
+# SkillUp - LinkedIn Skills & Course Recommender
 
 ## Table of Contents
 - [Introduction](#introduction)
 - [Features](#features)
 - [Installation](#installation)
-- [Running the Project](#Running)
-- [Configuration](#Configuration)
-
+- [Running the Project](#running-the-project)
+- [Configuration](#configuration)
+- [Contributing](#contributing)
 
 ## Introduction
-Skills play a crucial role in enhancing LinkedIn profiles, making them more visible to recruiters on the leading job-seeking platform. By adding personalized skills and aligning them with market demands, job seekers can significantly improve their chances of securing opportunities.
-
-This project aims to analyze users' experience and qualifications, to suggest personalized skills and to recommend relevant courses that help bridge skill gaps and meet industry demands. Our approach ensures that profiles are optimized for better career alignment and job opportunities.
+Skills play a crucial role in enhancing LinkedIn profiles, making them more visible to recruiters on the leading job-seeking platform. By adding personalized skills and aligning them with market demands, job seekers can significantly improve their chances of securing opportunities. This project aims to analyze users' experience and qualifications, suggest personalized skills for LinkedIn profiles, and recommend relevant courses that help bridge skill gaps and meet industry demands.
 
 The repository contains two main components:
-
-A Python script for scraping skills from Glassdoor.
-
-A Jupyter Notebook that processes and analyzes the scraped data.
+1. **A Python script for scraping skills from Glassdoor.**
+2. **A Jupyter Notebook that processes and analyzes the scraped data.**
 
 ## Features
 - Scrapes relevant skills from Glassdoor job postings.
 - Analyzes user experience and qualifications.
-- recommend skills based on experience and qualifications to LinkedIn profiles
-- understand the top 5 required skills based on location
-- recommend courses for profiles with minimal to no experience based on their location
-- 
+- Recommends skills based on experience and qualifications for LinkedIn profiles.
+- Identifies the **top 5 required skills** based on location.
+- Suggests **relevant courses** for users with minimal to no experience based on their location.
+
 ## Installation
 
 ### Prerequisites
 Ensure you have the following installed:
 - Python 3.x
 - Required Python packages (listed in `imports.txt`)
-- Jupyter Notebook 
+- Jupyter Notebook
 
 ### Install Dependencies
 Run the following command to install the necessary dependencies:
 ```bash
 pip install -r imports.txt
-```
-Clone the Repository
 
 ### Clone the Repository
 To get started, clone this repository to your local machine:
