@@ -1,7 +1,7 @@
 # SkillUp - LinkedIn Skills & Course Recommender
 
 ## Table of Contents
--[Explanation Video](#Project)
+- [Explanation Video](#Project)
 - [Introduction](#introduction)
 - [Features](#features)
 - [Installation](#installation)
