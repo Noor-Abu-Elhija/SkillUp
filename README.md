@@ -8,11 +8,11 @@
 - [Running the Project](#running-the-project)
 - [Configuration](#configuration)
 - [Contributing](#contributing)
-- FAQ(#FAQ)
+- [FAQ](#FAQ)
 
 ## Project Explanation Video
-
-📹 [Watch the project explanation](https://drive.google.com/file/d/11TTsCKLtT13R-ce7xijAuW0JAIShRx2L/view?usp=sharing)
+ 
+<iframe src="https://drive.google.com/file/d/11TTsCKLtT13R-ce7xijAuW0JAIShRx2L/view?usp=sharing" width="800" height="450" allow="autoplay"></iframe>
 
 ## Introduction
 Skills play a crucial role in enhancing LinkedIn profiles, making them more visible to recruiters on the leading job-seeking platform. By adding personalized skills and aligning them with market demands, job seekers can significantly improve their chances of securing opportunities. This project aims to analyze users' experience and qualifications, suggest personalized skills for LinkedIn profiles, and recommend relevant courses that help bridge skill gaps and meet industry demands.
@@ -90,4 +90,7 @@ Visit [Gemini API](https://api.gemini.com) and sign up for an API key.
 
 ### 2. Can I run the project on Windows?
 Yes, ensure you have Python installed and follow the installation steps.
+
+### 3. Can I scrap the data when I am signed in to my Glassdoor account?
+No, the scraping algorithm works with signed-out sites only.
 
