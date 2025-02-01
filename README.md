@@ -51,10 +51,10 @@ cd SkillUp
 ## Running the Project
 
 ### Running the Python Script
-To execute the script for scraping skills from Glassdoor, use the following command:
+To execute the script for scraping jobs from Glassdoor, use the following command:
 
 ```bash
-python extract_skills.py
+python scrap_data.py
 ```
 ### Running the Jupyter Notebook
 To analyze and process the scraped data, open a terminal or command prompt, navigate to the project directory, and launch Jupyter Notebook:
