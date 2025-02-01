@@ -5,7 +5,7 @@
 - [Introduction](#introduction)
 - [Features](#features)
 - [Installation](#installation)
-- [Running the Project](#Running the Project)
+- [Running the Project](#Running)
 - [Configuration](#Configuration)
 
 
