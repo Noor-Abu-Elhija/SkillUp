@@ -81,7 +81,8 @@ We welcome contributions to improve this project! Follow these steps to contribu
 2. **Clone Your Fork**: Clone your forked repository to your local machine:  
    ```bash
    git clone https://github.com/<YourUsername>/<YourRepo>.git
-   cd <YourRepo> ```
+   cd <YourRepo>
+    ```
 
 ## FAQ
 
