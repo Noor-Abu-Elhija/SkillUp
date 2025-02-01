@@ -13,7 +13,10 @@
 ## Project Explanation Video
  
 📹 [Watch the project explanation](https://drive.google.com/file/d/11TTsCKLtT13R-ce7xijAuW0JAIShRx2L/view?usp=sharing)
-
+ <video width="800" height="450" controls>
+  <source src="https://drive.google.com/uc?export=preview&id=11TTsCKLtT13R-ce7xijAuW0JAIShRx2L" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 ## Introduction
 Skills play a crucial role in enhancing LinkedIn profiles, making them more visible to recruiters on the leading job-seeking platform. By adding personalized skills and aligning them with market demands, job seekers can significantly improve their chances of securing opportunities. This project aims to analyze users' experience and qualifications, suggest personalized skills for LinkedIn profiles, and recommend relevant courses that help bridge skill gaps and meet industry demands.
