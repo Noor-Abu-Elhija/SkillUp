@@ -12,7 +12,7 @@
 
 ## Project Explanation Video
  
-📹 [Watch the project explanation]("https://drive.google.com/file/d/11TTsCKLtT13R-ce7xijAuW0JAIShRx2L/view?usp=sharing")
+📹 [Watch the project explanation](https://drive.google.com/file/d/11TTsCKLtT13R-ce7xijAuW0JAIShRx2L/view?usp=sharing)
 
 
 ## Introduction
