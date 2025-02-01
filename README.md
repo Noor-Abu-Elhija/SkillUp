@@ -39,8 +39,8 @@ Ensure you have the following installed:
 ### Install Dependencies
 Run the following command to install the necessary dependencies:
 ```bash
-pip install -r imports.txt
-
+pip install -r imports.txt 
+```
 ### Clone the Repository
 To get started, clone this repository to your local machine:
 
