@@ -1,12 +1,18 @@
 # SkillUp - LinkedIn Skills & Course Recommender
 
 ## Table of Contents
+-[Explanation Video](#Project)
 - [Introduction](#introduction)
 - [Features](#features)
 - [Installation](#installation)
 - [Running the Project](#running-the-project)
 - [Configuration](#configuration)
 - [Contributing](#contributing)
+- FAQ(#FAQ)
+
+## Project Explanation Video
+
+📹 [Watch the project explanation](https://drive.google.com/file/d/11TTsCKLtT13R-ce7xijAuW0JAIShRx2L/view?usp=sharing)
 
 ## Introduction
 Skills play a crucial role in enhancing LinkedIn profiles, making them more visible to recruiters on the leading job-seeking platform. By adding personalized skills and aligning them with market demands, job seekers can significantly improve their chances of securing opportunities. This project aims to analyze users' experience and qualifications, suggest personalized skills for LinkedIn profiles, and recommend relevant courses that help bridge skill gaps and meet industry demands.
@@ -75,5 +81,13 @@ We welcome contributions to improve this project! Follow these steps to contribu
 2. **Clone Your Fork**: Clone your forked repository to your local machine:  
    ```bash
    git clone https://github.com/<YourUsername>/<YourRepo>.git
-   cd <YourRepo>
- ```
+   cd <YourRepo> ```
+
+## FAQ
+
+### 1. How do I get a Gemini API key?
+Visit [Gemini API](https://api.gemini.com) and sign up for an API key.
+
+### 2. Can I run the project on Windows?
+Yes, ensure you have Python installed and follow the installation steps.
+
